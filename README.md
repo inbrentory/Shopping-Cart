@@ -1,0 +1,2 @@
+# Shopping-Cart
+MIT license
